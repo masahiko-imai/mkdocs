@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Index","text":""},{"location":"index.html#first-page","title":"First Page","text":""},{"location":"hoge.html","title":"Hoge","text":"<p>Next Page</p>"}]}
