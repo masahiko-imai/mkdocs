@@ -30,6 +30,7 @@ jobs:
           pip install mkdocs-material
       - name: Build Web App
         run: |
+          cd documents
           mkdocs build --clean
       - name: Build And Deploy
         id: builddeploy
